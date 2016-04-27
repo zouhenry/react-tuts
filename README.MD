@@ -1,4 +1,4 @@
-## This is my portfolio written in ReactJs 
+## This is written in ReactJs 
 ### Additional Technologies used here: Gulp, WebSocket, NodeJs, Bower, NPM, Jade, SASS
 ### This can be used to use as a seed
 
